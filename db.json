@@ -1,0 +1,61 @@
+{
+  "genre": [
+    {
+      "id": 1,
+      "titulo": "Rock",
+      "img": "rock.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Reggaeton",
+      "img": "reggaeton.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Hip-Hop",
+      "img": "hiphop.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Pop",
+      "img": "pop.jpg"
+    },
+     {
+      "id": 5,
+      "titulo": "Electronica",
+      "img": "electronica.jpg"
+    }
+  ],
+  "artist": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "img" : "foo.jpg",
+      "genreId": 1
+    },
+    {
+      "id": 2,
+      "body": "Kings of Leon",
+      "img" : "king.jpg",
+      "genreId": 1
+    },
+     {
+      "id": 3,
+      "name": "Guns N' Roses",
+      "img" : "guns.jpg",
+      "genreId": 1
+    },
+    {
+      "id": 4,
+      "body": "Queen",
+      "img" : "queen.jpg",
+      "genreId": 1
+    },
+    {
+      "id": 5,
+      "body": "Soda Stereo",
+      "img" : "soda.jpg",
+      "genreId": 1
+    },
+  ]
+}
