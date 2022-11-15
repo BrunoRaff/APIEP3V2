@@ -72,218 +72,110 @@
     },
     {
       "id": 9,
-      "body": "Nirvana",
-      "img" : "nirvana.jpg",
-      "genreId": 1
-    },
-    {
-      "id": 10,
-      "body": "The Killers",
-      "img" : "killers.jpg",
-      "genreId": 1
-    },
-    {
-      "id": 11,
-      "name": "Green Day",
-      "img" : "green.jpg",
-      "genreId": 1
-    },
-    {
-      "id": 12,
-      "name": "Bad Bunny",
-      "img" : "bunny.jpg",
-      "genreId": 2
-    },
-    {
-      "id": 13,
       "body": "Don Omar",
       "img" : "omar.jpg",
       "genreId": 2
     },
      {
-      "id": 14,
+      "id": 10,
       "name": "Wisin & Yandel",
       "img" : "wisin.jpg",
       "genreId": 2
     },
     {
-      "id": 15,
+      "id": 11,
       "body": "Daddy Yankee",
       "img" : "daddy.jpg",
       "genreId": 2
     },
     {
-      "id": 16,
+      "id": 12,
       "body": "Ozuna",
       "img" : "ozuna.jpg",
       "genreId": 2
     },
     {
-      "id": 17,
+      "id": 13,
       "name": "J balvin",
       "img" : "J.jpg",
       "genreId": 2
     },
     {
-      "id": 18,
-      "body": "Maluma",
-      "img" : "maluma.jpg",
-      "genreId": 2
-    },
-     {
-      "id": 19,
-      "name": "Nicky Jam",
-      "img" : "Nicky.jpg",
-      "genreId": 2
-    },
-    {
-      "id": 20,
-      "body": "Anuel AA",
-      "img" : "anuel.jpg",
-      "genreId": 2
-    },
-    {
-      "id": 21,
-      "body": "Arcangel",
-      "img" : "arcangel.jpg",
-      "genreId": 2
-    },
-    {
-      "id": 22,
-      "name": "Farruko",
-      "img" : "farruko.jpg",
-      "genreId": 2
-    },
-    {
-      "id": 23,
+      "id": 14,
       "name": "Jay Z",
       "img" : "Jay.jpg",
       "genreId": 3
     },
     {
-      "id": 24,
-      "body": "Snoop Dogg",
-      "img" : "snoop.jpg",
-      "genreId": 3
-    },
-     {
-      "id": 25,
-      "name": "Eminem",
-      "img" : "eminem.jpg",
-      "genreId": 3
-    },
-    {
-      "id": 26,
+      "id": 15,
       "body": "Kanye West",
       "img" : "kanye.jpg",
       "genreId": 3
     },
     {
-      "id": 27,
+      "id": 16,
       "body": "Drake",
       "img" : "drake.jpg",
       "genreId": 3
     },
     {
-      "id": 28,
+      "id": 17,
       "name": "Dr. Dre",
       "img" : "Dre.jpg",
       "genreId": 3
     },
     {
-      "id": 29,
-      "body": "50 Cent",
-      "img" : "50.jpg",
-      "genreId": 3
-    },
-     {
-      "id": 30,
-      "name": "Kendrick Lamar",
-      "img" : "kendrick.jpg",
-      "genreId": 3
-    },
-    {
-      "id": 31,
-      "body": "Chance The Rapper",
-      "img" : "chance.jpg",
-      "genreId": 3
-    },
-    {
-      "id": 32,
+      "id": 18,
       "body": "Frank Ocean",
       "img" : "frank.jpg",
       "genreId": 3
     },
     {
-      "id": 33,
+      "id": 19,
       "name": "BROCKHAMPTON",
       "img" : "brock.jpg",
       "genreId": 3
     },
     {
-      "id": 34,
+      "id": 20,
       "name": "Katy Perry",
       "img" : "katy.jpg",
       "genreId": 4
     },
     {
-      "id": 35,
+      "id": 21,
       "body": "Lady Gaga",
       "img" : "gaga.jpg",
       "genreId": 4
     },
      {
-      "id": 36,
+      "id": 22,
       "name": "Michael Jackson",
       "img" : "jackson.jpg",
       "genreId": 4
     },
     {
-      "id": 37,
+      "id": 23,
       "body": "Taylor Swift",
       "img" : "taylor.jpg",
       "genreId": 4
     },
     {
-      "id": 38,
+      "id": 24,
       "body": "Beyonce",
       "img" : "beyonce.jpg",
       "genreId": 4
     },
     {
-      "id": 39,
+      "id": 25,
       "name": "Rihanna",
       "img" : "rihanna.jpg",
       "genreId": 4
     },
     {
-      "id": 40,
+      "id": 26,
       "body": "Britney Spears",
       "img" : "britney.jpg",
-      "genreId": 4
-    },
-     {
-      "id": 41,
-      "name": "Miley Cyrus",
-      "img" : "miley.jpg",
-      "genreId": 4
-    },
-    {
-      "id": 42,
-      "body": "Adele",
-      "img" : "adele.jpg",
-      "genreId": 4
-    },
-    {
-      "id": 43,
-      "body": "Ariana Grande",
-      "img" : "ariana.jpg",
-      "genreId": 4
-    },
-    {
-      "id": 44,
-      "name": "Justin Timberlake",
-      "img" : "justin.jpg",
       "genreId": 4
     }
   ]
